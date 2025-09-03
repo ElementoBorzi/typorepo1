@@ -1,4 +1,3 @@
-dllping.lua | https://github.com/ElementoBorzi/typorepo1/releases/download/L.0.0.1/dllping.lua | 0.0.5
 zlib1.dll | https://github.com/ElementoBorzi/typorepo1/releases/download/L.0.0.1/zlib1.dll | 0.0.1
 vulkan-32gl.dll | https://github.com/ElementoBorzi/typorepo1/releases/download/L.0.0.1/vulkan-32gl.dll | 0.0.1
 unicows.dll | https://github.com/ElementoBorzi/typorepo1/releases/download/L.0.0.1/unicows.dll | 0.0.1
@@ -7,7 +6,10 @@ ijl15.dll | https://github.com/ElementoBorzi/typorepo1/releases/download/L.0.0.1
 DivxDecoder.dll | https://github.com/ElementoBorzi/typorepo1/releases/download/L.0.0.1/DivxDecoder.dll | 0.0.1
 dbghelp.dll | https://github.com/ElementoBorzi/typorepo1/releases/download/L.0.0.1/dbghelp.dll | 0.0.1
 Battle.net.dll | https://github.com/ElementoBorzi/typorepo1/releases/download/L.0.0.1/Battle.net.dll | 0.0.1
-WTF/Config.wtf | https://github.com/ElementoBorzi/typorepo1/releases/download/L.0.0.1/Config.wtf | 0.0.1
-Data/ruRU/realmlist.wtf | https://github.com/ElementoBorzi/typorepo1/releases/download/L.0.0.1/realmlist.wtf | 0.0.1
-Data/ruRU/patch-ruRU-5.mpq | https://github.com/ElementoBorzi/typorepo1/releases/download/L.0.0.1/patch-ruRU-5.MPQ | 0.0.1
+WTF/Config.WTF | https://github.com/ElementoBorzi/typorepo1/releases/download/L.0.0.1/Config.wtf | 0.0.2
+Data/ruRU/realmlist.WTF | https://github.com/ElementoBorzi/typorepo1/releases/download/L.0.0.1/realmlist.wtf | 0.0.1
+Data/ruRU/patch-ruRU.MPQ | https://github.com/ElementoBorzi/typorepo1/releases/download/L.0.0.1/patch-ruRU.MPQ | 0.0.1
+Data/ruRU/patch-ruRU-2.mpq | https://github.com/ElementoBorzi/typorepo1/releases/download/L.0.0.1/patch-ruRU-2.MPQ | 0.0.1
+Data/ruRU/patch-ruRU-2.mpq | https://github.com/ElementoBorzi/typorepo1/releases/download/L.0.0.1/patch-ruRU-3.MPQ | 0.0.1
+Data/ruRU/speech-ruRU.MPQ | https://github.com/ElementoBorzi/typorepo1/releases/download/L.0.0.1/speech-ruRU.MPQ | 0.0.1
 WoW.exe | https://github.com/ElementoBorzi/typorepo1/releases/download/L.0.0.1/WoW.exe | 1.12.1
