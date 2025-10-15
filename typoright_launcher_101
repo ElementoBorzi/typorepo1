@@ -10,12 +10,11 @@ Data/patch-5.MPQ | https://github.com/ElementoBorzi/typorepo1/releases/download/
 Data/ruRU/patch-ruRU.MPQ | https://github.com/ElementoBorzi/typorepo1/releases/download/L.0.0.1/patch-ruRU.MPQ | 0.0.1
 Data/ruRU/patch-ruRU-2.mpq | https://github.com/ElementoBorzi/typorepo1/releases/download/L.0.0.1/patch-ruRU-2.MPQ | 0.0.1
 Data/ruRU/patch-ruRU-3.mpq | https://github.com/ElementoBorzi/typorepo1/releases/download/L.0.0.1/patch-ruRU-3.MPQ | 0.0.1
-Data/ruRU/patch-ruRU-4.mpq | https://github.com/ElementoBorzi/typorepo1/releases/download/L.0.0.1/patch-ruRU-4.MPQ | 0.1.47
+Data/ruRU/patch-ruRU-4.mpq | https://github.com/ElementoBorzi/typorepo1/releases/download/L.0.0.1/patch-ruRU-4.MPQ | 0.1.48
 Data/ruRU/patch-ruRU-5.mpq | https://github.com/ElementoBorzi/typorepo1/releases/download/L.0.0.1/patch-ruRU-5.MPQ | 0.0.5
 Data/ruRU/speech-ruRU.MPQ | https://docs.google.com/uc?export=download&id=1DmnyUazUHX1j3Fla-q0XfGg7PUoEhfD9 | 0.0.1
 Data/ruRU/locale-ruRU.MPQ | https://github.com/ElementoBorzi/typorepo1/releases/download/L.0.0.1/locale-ruRU.MPQ | 0.0.1
 zlib1.dll | https://github.com/ElementoBorzi/typorepo1/releases/download/L.0.0.1/zlib1.dll | 0.0.1
-vulkan-32gl.dll | https://github.com/ElementoBorzi/typorepo1/releases/download/L.0.0.1/vulkan-32gl.dll | 0.0.1
 unicows.dll | https://github.com/ElementoBorzi/typorepo1/releases/download/L.0.0.1/unicows.dll | 0.0.1
 msvcr80.dll | https://github.com/ElementoBorzi/typorepo1/releases/download/L.0.0.1/msvcr80.dll | 0.0.1
 ijl15.dll | https://github.com/ElementoBorzi/typorepo1/releases/download/L.0.0.1/ijl15.dll | 0.0.1
@@ -24,5 +23,5 @@ dbghelp.dll | https://github.com/ElementoBorzi/typorepo1/releases/download/L.0.0
 Battle.net.dll | https://github.com/ElementoBorzi/typorepo1/releases/download/L.0.0.1/Battle.net.dll | 0.0.1
 WTF/Config.WTF | https://github.com/ElementoBorzi/typorepo1/releases/download/L.0.0.1/Config.wtf | 0.0.4
 Data/ruRU/realmlist.wtf | https://github.com/ElementoBorzi/typorepo1/releases/download/L.0.0.1/realmlist.wtf | 0.0.2
-Data/ruRU/Credits.html | https://github.com/ElementoBorzi/typorepo1/releases/download/L.0.0.1/Credits.html | 0.0.1
-WoW.exe | https://github.com/ElementoBorzi/typorepo1/releases/download/L.0.0.1/WoW.exe | 1.12.4
+vulkan-32gl.dll | https://github.com/ElementoBorzi/typorepo1/releases/download/L.0.0.1/vulkan-32gl.dll | 0.0.2
+WoW.exe | https://github.com/ElementoBorzi/typorepo1/releases/download/L.0.0.1/WoW.exe | 1.12.5
